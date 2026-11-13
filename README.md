@@ -14,4 +14,4 @@ python3 main.py
 
 Joke (also written to entry.txt):
 
-> My AI coding agent fixed the bug in three seconds, then spent forty minutes explaining why it was technically always a feature.
+> I asked an AI coding agent for a joke about AI coding agents. It spun up three subagents, benchmarked the punchlines, and shipped the one with the highest eval score.
