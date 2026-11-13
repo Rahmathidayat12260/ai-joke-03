@@ -1,7 +1,7 @@
 import os
 
-JOKE = ("An AI coding agent entered a joke contest: it drafted the punchline, "
-        "wrote tests for it, and asked me to approve the pull request before being funny.")
+JOKE = ("My AI coding agent fixed the bug in three seconds, then spent forty "
+        "minutes explaining why it was technically always a feature.")
 
 def main():
     out = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")

@@ -14,4 +14,4 @@ python3 main.py
 
 Joke (also written to entry.txt):
 
-> An AI coding agent entered a joke contest: it drafted the punchline, wrote tests for it, and asked me to approve the pull request before being funny.
+> My AI coding agent fixed the bug in three seconds, then spent forty minutes explaining why it was technically always a feature.
